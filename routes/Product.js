@@ -1,6 +1,6 @@
 var GenerateSchema = require("generate-schema");
 const Product = {
-  email: "fuckinghard12@gmail.com",
+  email: "test@gmail.com",
   password: "test123",
   product: {
     name: "test",
